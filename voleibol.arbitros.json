@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6561654e5a84b481c9933353"
+  },
+  "nombre": "Camilo Pitana",
+  "edad": 46,
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "6561654e5a84b481c9933354"
+  },
+  "nombre": "Angel Vila",
+  "edad": 48,
+  "nacionalidad": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "6561654e5a84b481c9933355"
+  },
+  "nombre": "Juan Pinzon",
+  "edad": 44,
+  "nacionalidad": "Chile"
+},
+{
+  "_id": {
+    "$oid": "65616e495a84b481c993337a"
+  },
+  "nombre": "Willliam Medina",
+  "edad": 36,
+  "nacionalidad": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "65616e495a84b481c993337b"
+  },
+  "nombre": "Jhon Rios",
+  "edad": 36,
+  "nacionalidad": "Chile"
+}]

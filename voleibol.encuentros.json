@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65616a545a84b481c993336a"
+  },
+  "equipo_local": "Argentina",
+  "fecha": "2022-12-15T19:00:00Z",
+  "estadio": "Estadio Olímpico",
+  "árbitro_principal": "Camilo Pitana"
+},
+{
+  "_id": {
+    "$oid": "65616a545a84b481c993336b"
+  },
+  "equipo_local": "Portugal",
+  "fecha": "2022-12-15T19:00:00Z",
+  "estadio": "Estadio Arauca",
+  "árbitro_principal": "Angel Vila"
+},
+{
+  "_id": {
+    "$oid": "65616a545a84b481c993336c"
+  },
+  "equipo_local": "Chile",
+  "fecha": "2022-12-15T19:00:00Z",
+  "estadio": "Estadio Rey ",
+  "árbitro_principal": "Juan Pinzon"
+},
+{
+  "_id": {
+    "$oid": "65616ee05a84b481c9933380"
+  },
+  "equipo_local": "Portugal",
+  "fecha": "2022-12-15T19:00:00Z",
+  "estadio": "Estadio Olímpico",
+  "árbitro_principal": "Juan Pinzon"
+},
+{
+  "_id": {
+    "$oid": "65616ee05a84b481c9933381"
+  },
+  "equipo_local": "Argentina",
+  "fecha": "2022-12-15T19:00:00Z",
+  "estadio": "Estadio Olímpico",
+  "árbitro_principal": "Angel Vila"
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "656164d45a84b481c993334e"
+  },
+  "nombre": "Luis Santos",
+  "edad": 67,
+  "equipo": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "656164d45a84b481c993334f"
+  },
+  "nombre": "Daniel Rico",
+  "edad": 60,
+  "equipo": "Brasil"
+},
+{
+  "_id": {
+    "$oid": "656164d45a84b481c9933350"
+  },
+  "nombre": "Andres Reyes",
+  "edad": 61,
+  "equipo": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "65616f225a84b481c9933383"
+  },
+  "nombre": "Carlos Santos",
+  "edad": 27,
+  "equipo": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "65616f225a84b481c9933384"
+  },
+  "nombre": "Julio Oviedo",
+  "edad": 37,
+  "equipo": "Chile"
+}]

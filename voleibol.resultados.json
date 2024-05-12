@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "65616b7b5a84b481c9933371"
+  },
+  "puntos_equipo_Argenta": 5,
+  "puntos_equipo_Chile": 10,
+  "puntos_equipo_Portugal": 7
+},
+{
+  "_id": {
+    "$oid": "65616b7b5a84b481c9933372"
+  },
+  "puntos_equipo_Argenta": 10,
+  "puntos_equipo_Chile": 13,
+  "puntos_equipo_Portugal": 3
+},
+{
+  "_id": {
+    "$oid": "65616b7b5a84b481c9933373"
+  },
+  "puntos_equipo_Argenta": 2,
+  "puntos_equipo_Chile": 9,
+  "puntos_equipo_Portugal": 12
+},
+{
+  "_id": {
+    "$oid": "65616f605a84b481c9933386"
+  },
+  "puntos_equipo_Argenta": 12,
+  "puntos_equipo_Chile": 9,
+  "puntos_equipo_Portugal": 10
+},
+{
+  "_id": {
+    "$oid": "65616f605a84b481c9933387"
+  },
+  "puntos_equipo_Argenta": 6,
+  "puntos_equipo_Chile": 12,
+  "puntos_equipo_Portugal": 8
+}]

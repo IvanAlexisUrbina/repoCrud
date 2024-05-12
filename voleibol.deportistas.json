@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "656163ac5a84b481c9933345"
+  },
+  "nombre_deportista": "Jesus Reyes",
+  "edad": "30",
+  "posicion": "Armador",
+  "equipo": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "656163ac5a84b481c9933346"
+  },
+  "nombre_deportista": "Daniel Ardila",
+  "edad": "40",
+  "posicion": "libero",
+  "equipo": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "656163ac5a84b481c9933347"
+  },
+  "nombre_deportista": "Paula Cabrera",
+  "edad": "20",
+  "posicion": "central",
+  "equipo": "Chile"
+},
+{
+  "_id": {
+    "$oid": "65616e975a84b481c993337d"
+  },
+  "nombre_deportista": "Luis Aldana",
+  "edad": "32",
+  "posicion": "Armador",
+  "equipo": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "65616e975a84b481c993337e"
+  },
+  "nombre_deportista": "Luis Cabrera",
+  "edad": "32",
+  "posicion": "Opuesto",
+  "equipo": "Chile"
+}]
